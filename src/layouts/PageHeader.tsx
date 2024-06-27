@@ -35,7 +35,7 @@ export function PageHeader() {
             <Search />
           </Button>
         </div>
-        <Button type="button" size="default" className="flex-shrink-0">
+        <Button type="button" size="icon" className="flex-shrink-0">
           <Mic />
         </Button>
       </form>
